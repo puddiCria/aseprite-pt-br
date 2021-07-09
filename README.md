@@ -15,7 +15,7 @@ Além disso existe um erro muito similar na versão beta 1.3, com a diferença d
 
 <h2>Agradecimentos</h2>
 
-Ficam aqui meus agradecimentos especiais ao @Inky1003, apesar de eu ter reescrito toda a tradução à partir do inglês, foi de grande ajuda a consulta na tradução anterior feita por ele, principalmente em alguns termos que eu não sabia o significado.
+Ficam aqui meus agradecimentos especiais ao @Inky1003, apesar de eu ter reescrito toda a tradução à partir do inglês, foi de grande ajuda parte da consulta na tradução anterior feita por ele, principalmente em alguns termos que eu não sabia o significado.
 
 <h2>Download</h2>
 
