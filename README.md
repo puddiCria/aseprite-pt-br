@@ -19,4 +19,4 @@ Ficam aqui meus agradecimentos especiais ao @Inky1003, apesar de eu ter reescrit
 
 <h2>Download</h2>
 
-<a href="https://github.com/Inky1003/aseprite-pt-br/releases">Clique aqui para ver todas as versões</a>
+<a href="https://github.com/puddiCria/aseprite-pt-br/releases">Clique aqui para ver todas as versões</a>
