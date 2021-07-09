@@ -1,4 +1,4 @@
-# Aseprite em Portguês Brasileiro
+# Aseprite em Português Brasileiro
 <h2>Introdução</h2>
 
 Salve, salve! Bem vindx à página da tradução do Aseprite para potuguês do Brasil!
@@ -15,8 +15,32 @@ Além disso existe um erro muito similar na versão beta 1.3, com a diferença d
 
 <h2>Agradecimentos</h2>
 
-Ficam aqui meus agradecimentos especiais ao @Inky1003, apesar de eu ter reescrito toda a tradução à partir do inglês, foi de grande ajuda parte da consulta na tradução anterior feita por ele, principalmente em alguns termos que eu não sabia o significado.
+Ficam aqui meus agradecimentos especiais ao <a href="https://github.com/Inky1003">@Inky1003</a>, apesar de eu ter reescrito toda a tradução à partir do inglês, foi de grande ajuda parte da consulta na tradução anterior feita por ele, principalmente em alguns termos que eu não sabia o significado.
+
+<h2>Como instalar</h2>
+
+<b>Método "automático":</b><br>
+
+<b>1 -</b> Baixe os arquivos do link abaixo (Downloads);<br>
+<b>2 -</b> Com o Aseprite aberto execute o arquivo "aseprite-ptbr-[versão].aseprite-extension;"<br>
+<b>3 -</b> Clique em "Install" quando aparecer o aviso de instalação no Aseprite;<br>
+<b>4 -</b> Vá até o <sup><b>[1]</b></sup>Menu → Edit → Preferences... → General → Language: → escolha pt-br;
+<b>5 -</b> Clique em Apply → Ok → Reinicie seu Aseprite para garantir que tudo esteja correto.<br>
+
+Pronto!
+
+<b>Método "manual":</b><br>
+
+<b>1 -</b> ...<br>
+<b>2 -</b> Extraia o arquivo "aseprite-pt_br-[versão].zip";<br>
+<b>3 -</b> Com o Aseprite aberto vá até as configurações de idioma <sup><b>ver</b>[1]</sup>;<br>
+<b>4 -</b> Clique em "Locate Configuration File";<br>
+<b>5 -</b> Abra a pasta "extensions" e cole aqui a pasta e o conteúdo extraído anteriormente (aseprite-pt_br-[versão].zip)
+
+Pronto!
 
 <h2>Download</h2>
 
 <a href="https://github.com/puddiCria/aseprite-pt-br/releases">Clique aqui para ver todas as versões</a>
+
+
